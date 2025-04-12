@@ -1,0 +1,1 @@
+It is the basic calculator which has arthimatic operations like addition,subtraction,multiplication and division and a toggle button which would help the user to change ui color according to his wish..
